@@ -1,0 +1,26 @@
+<annotation>
+  <folder>new_images</folder>
+  <filename>img_89</filename>
+  <path>C:\Users\milanfc\OneDrive\Documents\Programming\bee-detection\images\img_89.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1024</width>
+    <height>576</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bee</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>783</xmin>
+      <ymin>418</ymin>
+      <xmax>810</xmax>
+      <ymax>451</ymax>
+    </bndbox>
+  </object>
+</annotation>
